@@ -1,9 +1,3 @@
 def greeting
-  puts "Hello World"
+  puts "Hi, Ruby Programmer!"
 end
-
-greeting
-greeting
-greeting
-greeting
-greeting
